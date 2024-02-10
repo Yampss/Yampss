@@ -4,7 +4,7 @@
 - 💞️ I want to collaborate on projects that can help me learn better! (PREFERABLY ML, LLMs)!
 - 📫 How to reach me ----mail me---chrissattasseril16@gmail.com
 - Linkedin - https://www.linkedin.com/in/chriss-philip-saji/
-- Twitter - https://twitter.com/ChrissSaji
+
 
 <!---
 Yampss/Yampss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
