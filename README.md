@@ -1,4 +1,4 @@
-![Chriss Philip Saji](chriss_philip_saji_header_formal.png)
+![Chriss Philip Saji](image.png)
 # Hi, I'm Chriss Philip Saji 👋🏾🧑🏽‍💻
 
 ## CHRISS PHILIP SAJI
