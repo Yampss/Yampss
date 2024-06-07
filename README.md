@@ -1,8 +1,5 @@
 ![Chriss Philip Saji](image.png)
-# Hi, I'm Chriss Philip Saji 👋🏾🧑🏽‍💻
-
-## CHRISS PHILIP SAJI
-**Aspiring Software Engineer**
+# Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
 
 I'm an aspiring junior software engineer with a background in C, SQL, Git, Python, machine learning, Java, and LLMs. I am passionate about expanding my skill set by learning ML and AI techniques. Currently, I am pursuing an honored bachelor's degree in Computer Science. Throughout my journey, I have demonstrated excellent problem-solving abilities and a keen attention to detail. I thrive in team environments and am passionate about staying up-to-date with the latest technologies.
 
