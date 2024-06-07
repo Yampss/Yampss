@@ -3,18 +3,18 @@
 ## CHRISS PHILIP SAJI
 **Aspiring Software Engineer**
 
-I'm an aspiring junior software engineer with a background in C, SQL, Git, Python, machine learning, Java, and LLMs. I am passionate about expanding my skill set by learning ML and AI techniques. Currently, I am pursuing an honored bachelor's degree in Computer Science. Throughout my journey, I have demonstrated excellent problem-solving abilities and a keen attention to detail. I thrive in team environments and am passionate about staying up-to-date with the latest technologies. I look forward to contributing and learning in a company as an aspiring software engineer.
+I'm an aspiring junior software engineer with a background in C, SQL, Git, Python, machine learning, Java, and LLMs. I am passionate about expanding my skill set by learning ML and AI techniques. Currently, I am pursuing an honored bachelor's degree in Computer Science. Throughout my journey, I have demonstrated excellent problem-solving abilities and a keen attention to detail. I thrive in team environments and am passionate about staying up-to-date with the latest technologies.
 
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
--Connect with me on [Gmail]: chrissattasseril16@gmail.com
+-Connect with me on [Gmail]: (chrissattasseril16@gmail.com)
 
 ### Technical Skills:
 - **Languages:** Java, Python, C, HTML, CSS, SQL
 - **Technologies:** Git, Streamlit, Machine Learning,Generative AI, NLP, LLMs
 
 ### Experience:
-- **Intern at Stem Robotics Int.**: Gained hands-on experience in robotics, learned about Arduino programming and other basics of robotics.
+- **Intern at Stem Robotics Int.**(2023): Gained hands-on experience in robotics, learned about Arduino programming and other basics of robotics.
 
 ### Some interesting Projects:
 - **OpenAI-based Data App**: Built using Python and Django.
