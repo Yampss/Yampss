@@ -17,8 +17,8 @@ I'm an aspiring junior software engineer with a background in C, SQL, Git, Pytho
 ### Some interesting Projects:
 - **OpenAI-based Data App**: Built using Python and Django.
 - **ML Models**: Developed regression and SVM-based models.
-- **Movie Recommender System**: Created using Similarity Search.
-- **Chat with PDF Application**: Developed using Streamlit and ChromaDB.
+- **Recommender System**: Created using Similarity Search.
+- **NLP Based Application**: Developed using Streamlit and ChromaDB.
 - **Developing LLMs**.
 
 ### Co-curricular Achievements:
