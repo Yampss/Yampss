@@ -14,11 +14,11 @@ I'm an aspiring junior software engineer with a background in C, SQL, Git, Pytho
 - **Technologies:** Git, Streamlit, Machine Learning,Generative AI, NLP, LLMs
 
 ### Experience:
-- **Intern at Stem Robotics Int. (May 2023)**: Gained hands-on experience in robotics, learned about Arduino programming and other basics of robotics.
+- **Intern at Stem Robotics Int.**: Gained hands-on experience in robotics, learned about Arduino programming and other basics of robotics.
 
-### Projects:
+### Some interesting Projects:
 - **OpenAI-based Data App**: Built using Python and Django.
-- **ML Models**: Developed regression and SVM-based models for Diabetes Prediction and Rock vs Mine Detection.
+- **ML Models**: Developed regression and SVM-based models.
 - **Movie Recommender System**: Created using Similarity Search.
 - **Chat with PDF Application**: Developed using Streamlit and ChromaDB.
 - **Developing LLMs**.
@@ -30,18 +30,6 @@ I'm an aspiring junior software engineer with a background in C, SQL, Git, Pytho
 - **2023**: Participated in a blockchain-based hackathon at the college level.
 - **2023**: Won Preliminary rounds in YIP 5.0, and now participating in the final rounds.
 - **2023**: Participated in SIH 2023.
-
-### Personal Information:
-- **Languages:** 
-  - ★★★☆☆ Malayalam
-  - ★★★★★ Hindi
-  - ★★★★★ English
-
-### Soft Skills:
-- Adaptability
-- Communication skills
-- Ability to work under pressure
-- Leadership
 
 
 
