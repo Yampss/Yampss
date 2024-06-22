@@ -11,7 +11,7 @@ I'm an aspiring junior software engineer with a background in C, SQL, Git, Pytho
 
 ### Technical Skills:
 - **Languages:** Java, Python, C, HTML, CSS, SQL
-- **Technologies:** Git, Streamlit, Machine Learning,Generative AI, NLP, LLMs
+- **Technologies:** Git, Streamlit, Machine Learning,Generative AI, NLP.
 
 ### Experience:
 - **Intern at Stem Robotics Int.**(2023): Gained hands-on experience in robotics, learned about Arduino programming and other basics of robotics.
@@ -21,7 +21,7 @@ I'm an aspiring junior software engineer with a background in C, SQL, Git, Pytho
 - **ML Models**: Developed regression and SVM-based models.
 - **Recommender System**: Created using Similarity Search.
 - **NLP Based Application**: Developed using Streamlit and ChromaDB.
-- **Developing LLMs**.
+
 
 ### Co-curricular Achievements:
 - **2024**: Published a review paper titled "Transformers : The Beginning of an Ease".
