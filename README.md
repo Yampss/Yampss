@@ -1,6 +1,9 @@
 ![Chriss Philip Saji](image.png)
 # Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
 
+Technical Skills:
+- *Languages:* Java, Python, C, HTML, CSS, SQL
+- *Technologies:* Git, Streamlit, Machine Learning,Generative AI, NLP.
 
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
