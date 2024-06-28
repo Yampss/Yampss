@@ -3,7 +3,7 @@
 Actively looking for Data-science projects to work on, ping me if interested!...
 Technical Skills:
 - *Languages:* Java, Python, C, HTML, CSS, SQL
-- *Technologies:* Git, Streamlit, Machine Learning,Generative AI, NLP.
+- *Technologies:* Git, Streamlit, Machine Learning,DEEP LEARNING ,Generative AI, NLP.
 
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
