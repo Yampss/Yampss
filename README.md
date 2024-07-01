@@ -5,6 +5,8 @@ Technical Skills:
 - *Languages:* Java, Python, C, HTML, CSS, SQL
 - *Technologies:* Git, Streamlit, Machine Learning,DEEP LEARNING ,Generative AI, NLP.
 
+#[most of works are in private repos, feel free to contact for collabs]
+
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
 - Connect with me on [Gmail]: (chrissattasseril16@gmail.com)
