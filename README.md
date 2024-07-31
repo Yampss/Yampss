@@ -12,6 +12,8 @@ Technical Skills:
 - Connect with me on [Gmail]: (chrissattasseril16@gmail.com)
 - connect with me on [Twitter]: (https://x.com/ChrissSaji)
 
+![](https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false)<br/>
 
 <!---
 Yampss/Yampss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
