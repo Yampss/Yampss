@@ -10,7 +10,6 @@ Technical Skills:
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
 - Connect with me on [Gmail]: (chrissattasseril16@gmail.com)
-- connect with me on [Twitter]: (https://x.com/ChrissSaji)
 
 ![](https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false)<br/>
