@@ -1,4 +1,4 @@
-![Chriss Philip Saji](image.png)
+![Chriss Philip Saji]
 # Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
 Actively looking for Data-science projects to work on, ping me if interested!...
 Technical Skills:
