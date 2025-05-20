@@ -1,11 +1,10 @@
-![Chriss Philip Saji]
-# Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
-Actively looking for GENERATIVE AI projects to work on, ping me if interested!...
-Technical Skills:
-- *Languages:* Java, Python, C, HTML, CSS, SQL
-- *Technologies:* Git, Streamlit, Machine Learning,DEEP LEARNING ,Generative AI, NLP.
 
-# most of works are in private repos, feel free to contact for collabs
+# Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
+Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
+
+Technical Skills: Well Guess i know something...
+
+### most of works are in private repos, feel free to contact for collabs
 
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
