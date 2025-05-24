@@ -4,7 +4,7 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 
 Technical Skills: Well Guess i know something...
 
-### most of works are in private repos, feel free to contact for collabs
+
 
 ### Find me around the web 🌐:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
