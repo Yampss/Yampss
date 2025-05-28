@@ -31,6 +31,16 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![pydub](https://img.shields.io/badge/PyDub-00599C?style=flat)
+![omegaconf](https://img.shields.io/badge/OmegaConf-6A1B9A?style=flat)
+![Gradio](https://img.shields.io/badge/Gradio-1DA1F2?style=flat&logo=gradio&logoColor=white)
+![Fairseq](https://img.shields.io/badge/Fairseq-0052CC?style=flat&logo=facebook&logoColor=white)
+![VoiceActivityDetector](https://img.shields.io/badge/VoiceActivityDetector-FF6F61?style=flat)
+![CTC Segmentation](https://img.shields.io/badge/CTC_Segmentation-007ACC?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0F9D58?style=flat&logo=google&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-6F42C1?style=flat)
+![OpenVINO Toolkit](https://img.shields.io/badge/OpenVINO-004DFF?style=flat&logo=intel&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
@@ -54,6 +64,7 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat)
 ![NVIDIA Apex](https://img.shields.io/badge/NVIDIA_Apex-76B900?style=flat&logo=nvidia)
+![RISC-V](https://img.shields.io/badge/RISC--V-FB503B?style=flat&logo=riscv&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-%2300A572.svg?style=flat&logo=anaconda&logoColor=white)
 ![Poetry](https://img.shields.io/badge/poetry-60A5FA?style=flat)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow)
@@ -63,7 +74,7 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 
 
 ### 📦 Other Tools
-![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat&logo=raspberry%20pi&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
