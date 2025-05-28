@@ -91,7 +91,14 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/)
 - Connect with me on [Gmail]: (chrissattasseril16@gmail.com)
 
+
+## Github Stats 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yampss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+![](https://visitcount.itsvg.in/api?id=Yampss&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false)<br/>
