@@ -51,6 +51,16 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 ![Remote SSH](https://img.shields.io/badge/Remote%20SSH-4B8BBE?style=flat)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Neysa](https://img.shields.io/badge/Neysa-007ACC?style=flat)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat)
+![NVIDIA Apex](https://img.shields.io/badge/NVIDIA_Apex-76B900?style=flat&logo=nvidia)
+![Conda](https://img.shields.io/badge/conda-%2300A572.svg?style=flat&logo=anaconda&logoColor=white)
+![Poetry](https://img.shields.io/badge/poetry-60A5FA?style=flat)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow)
+![ONNX](https://img.shields.io/badge/ONNX-005BBB?style=flat) ![LoRA](https://img.shields.io/badge/LoRA-6A1B9A?style=flat)
+
+
+
 
 ### 📦 Other Tools
 ![YOLO](https://img.shields.io/badge/YOLOv8-000000?style=flat)
