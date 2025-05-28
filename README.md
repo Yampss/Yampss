@@ -45,7 +45,7 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
 ### 🧠 Models & Research
-`wav2vec`, `ByT5`, `MT5`, `IndicWhisper`, `IndicConformer`, `IndicWav2vec`, `IndicTrans`, `IndicXlit`  
+`Wav2Vec`, `ByT5-small`, `ByT5-medium` ,`ByT5-large`,  `ByT5-XL` , `MT5-small`, `MT5-medium` , `MT5-large`, `MT5-XL`, `IndicWhisper`, `IndicConformer`, `IndicWav2vec`, `IndicTrans`, `IndicXlit`  
 `LLaMA-3.3-70B-Versatile`, `LLaMA-3.1-8B-Instant`, `DeepSeek-R1-Distill-LLaMA-70B`,  
 `Meta-LLaMA/4-Scout-17B-16E`, `Meta-LLaMA/4-Maverick-17B-128E`, `GPT-4.0`, `GPT-4.1`
 
