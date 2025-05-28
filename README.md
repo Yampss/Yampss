@@ -94,6 +94,7 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 
 ## Github Stats 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yampss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -103,8 +104,11 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/username=nithinlycanz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!---
-Yampss/Yampss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## 🧩 Let's Collaborate!
+
+I'm always open to exciting projects in the fields of AI, LLMs, and agentic workflows. Whether it's open-source work, hackathons, or research ideas — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/chriss-philip-saji/).
+
+📫 **chrissattasseril16@gmail.com**
