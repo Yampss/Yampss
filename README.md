@@ -59,7 +59,6 @@ Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
 ![Groq](https://img.shields.io/badge/Groq-000000?style=flat)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Remote SSH](https://img.shields.io/badge/Remote%20SSH-4B8BBE?style=flat)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Neysa](https://img.shields.io/badge/Neysa-007ACC?style=flat)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat)
