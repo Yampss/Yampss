@@ -1,6 +1,6 @@
 
 # Hi, I'm  [CHRISS PHILIP SAJI](https://v0-resume-portfolio-page-git-main-chriss-projects-a9c363e8.vercel.app/)👋🏾🧑🏽‍💻
-Actively looking for GENERATIVE AI projects to work on, ping me to colab!...
+FIguring out tech!...
 
 ---
 
