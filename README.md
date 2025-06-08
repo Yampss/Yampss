@@ -92,7 +92,7 @@ FIguring out tech!...
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yampss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
+![](https://komarev.com/ghpvc/?username=Yampss&color=grey)
 ![](https://visitcount.itsvg.in/api?id=Yampss&icon=2&color=0)
 
 
