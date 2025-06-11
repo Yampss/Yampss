@@ -101,6 +101,6 @@ FIguring out tech!...
 
 ## 🧩 Let's Collaborate!
 
-I'm always open to exciting projects in the fields of AI, LLMs, and agentic workflows. Whether it's open-source work, hackathons, or research ideas — feel free to reach out or connect at  **chrissattasseril16@gmail.com**
+I'm always open to exciting projects in the fields of AI, LLMs, and agentic workflows. Whether it's open-source work, hackathons, or research ideas — feel free to reach out at  **chrissattasseril16@gmail.com**
 
 
