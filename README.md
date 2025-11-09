@@ -1,7 +1,6 @@
 
 # Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
 FIguring out tech!...
-
 ---
 Turning ideas into Binaries!
 ---
@@ -18,10 +17,10 @@ Turning ideas into Binaries!
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  -->
 <!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false" align="center" /></div> -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yampss&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ![](https://komarev.com/ghpvc/?username=Yampss&color=grey)
-![](https://visitcount.itsvg.in/api?id=Yampss&icon=2&color=0)
+![](https://visitcount.itsvg.in/api?id=Yampss&icon=2&color=0)-->
 
 
 
