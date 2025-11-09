@@ -1,5 +1,5 @@
 
-# Turning caffeine and ideas into binaries ☕💻 Let's [Talk](chrissattasseril16@gmail.com)
+# Turning caffeine and ideas into binaries ☕💻 Let's [Talk]([chrissattasseril16@gmail.com](https://www.linkedin.com/in/chriss-philip-saji))
 
 <!-- <div align="center">
   <picture>
