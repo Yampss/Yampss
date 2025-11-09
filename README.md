@@ -1,9 +1,6 @@
 
-# Hi, I'm  CHRISS PHILIP SAJI👋🏾🧑🏽‍💻
-FIguring out tech!...
----
-Turning ideas into Binaries!
----
+# Hey guys...
+Turning caffeine and ideas into binaries ☕💻 Let's [Talk](chrissattasseril16@gmail.com)
 
 <!-- <div align="center">
   <picture>
@@ -13,7 +10,7 @@ Turning ideas into Binaries!
   </picture>
 </div> -->
 
-## Github Stats 
+<!-- ## Github Stats -->
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yampss&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>  -->
 <!-- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yampss&theme=tokyonight&hide_border=false" align="center" /></div> -->
 
@@ -26,8 +23,8 @@ Turning ideas into Binaries!
 
 
 
-## Let's Collaborate!
+<!-- ## Let's Collaborate!-->
 
-I'm always open to exciting projects in the fields of AI, LLMs, and agentic workflows.Feel free to reach out at  **chrissattasseril16@gmail.com**
+
 
 
